@@ -1,4 +1,6 @@
 Ecommerce Data Analysis using SQL
+
+
 🎯 Aim
 To analyze an e-commerce dataset using SQL by creating a schema, inserting sample data, and running queries to extract insights.
 
